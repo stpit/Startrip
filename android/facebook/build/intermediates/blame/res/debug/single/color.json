@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\Startrip\\android\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\android\\facebook\\src\\main\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\facebook\\src\\main\\res\\color\\com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\facebook\\src\\main\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\android\\facebook\\src\\main\\res\\color\\com_facebook_button_text_color.xml"
+    }
+]

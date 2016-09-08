@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\drawable\\com_facebook_button_background.xml"
+    }
+]

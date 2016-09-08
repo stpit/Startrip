@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\color\\com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\color\\com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\color\\com_facebook_send_button_text_color.xml"
+    }
+]

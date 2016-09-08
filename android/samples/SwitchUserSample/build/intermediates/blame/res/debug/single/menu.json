@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\Startrip\\samples\\SwitchUserSample\\build\\intermediates\\res\\merged\\debug\\menu\\options_profile.xml",
+        "source": "D:\\github\\Startrip\\samples\\SwitchUserSample\\res\\menu\\options_profile.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\SwitchUserSample\\build\\intermediates\\res\\merged\\debug\\menu\\options_profile.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\SwitchUserSample\\res\\menu\\options_profile.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\samples\\SwitchUserSample\\build\\intermediates\\res\\merged\\debug\\menu\\context_settings.xml",
+        "source": "D:\\github\\Startrip\\samples\\SwitchUserSample\\res\\menu\\context_settings.xml"
+    },
+    {
+        "merged": "D:\\github\\Startrip\\android\\samples\\SwitchUserSample\\build\\intermediates\\res\\merged\\debug\\menu\\context_settings.xml",
+        "source": "D:\\github\\Startrip\\android\\samples\\SwitchUserSample\\res\\menu\\context_settings.xml"
+    }
+]

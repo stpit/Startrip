@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\values-in\\values-in.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\github\\Startrip\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\values-in\\values-in.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\github\\Startrip\\android\\samples\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\4.14.1\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            }
+        ]
+    }
+]
